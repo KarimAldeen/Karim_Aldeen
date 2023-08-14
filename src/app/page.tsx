@@ -1,6 +1,6 @@
-import Home1_BG from '@/Components/Home1_BG'
-import Navbar from '@/Components/Navbar'
-import Sidebar from '@/Components/Sidebar'
+import Home1_BG from '../Components/Home1_BG'
+import Navbar from '../Components/Navbar'
+import Sidebar from '../Components/Sidebar'
 import React from 'react'
 
 const page = () => {
