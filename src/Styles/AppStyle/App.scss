@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+a {
+    color: inherit;
+    font-weight: bold;
+    text-decoration: none !important;
+    cursor: pointer !important;
+
+}
+
+button,
+svg {
+    // cursor: pointer;
+}
+
+.Home1_BG{
+    width: 100vw;
+    height: 292.8vw;
+}
+.Home{
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+.Navbar{
+    position: fixed;
+height: 5vw;
+width: 100vw;
+display: flex; justify-content: space-around; align-items: center;
+@include Shadow ;
+z-index: 99999;
+background-color: transparent;
+
+}
+.Navbar_Left{
+button{
+    background: var(--primary);
+    padding: 5px 10px;
+    border: none;
+    font-weight: 800;
+    color: var(--text);
+    border-radius: 4px;
+    cursor: pointer;
+}
+}
+.Navbar_Mid{
+transform: translateX(-3vw);
+    a{
+    color: var(--text);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 2.2vw;
+    margin-inline: 3vw;
+}
+}
+
+// .Group_277{
+//     animation: shake 0.5s linear infinite both;
+
+// }
+// .Group_36005{
+//     animation: shake 0.5s linear infinite both;
+
+// }
+
+.Right_Face{
+
+        animation: shake_Right 0.5s linear infinite both;
+
+
+}
+.Left_Face{
+    animation: shake_Left 0.5s linear infinite both;
+
+}
+.Ellipse_245{
+    animation: Dot 3s linear infinite both;
+
+}
+.Group_35721{
+    animation: opacity 3s linear infinite both;
+    transition: ease-in-out;
+
+
+}
+.logo_Chair{
+    animation: opacity 3s linear infinite both;
+    transition: ease-in-out;
+
+}
+.Apple{
+    animation: shake_Apple 2s linear infinite both;
+
+}
+.Arrow{
+    animation: fly 6s linear infinite both;
+
+}
