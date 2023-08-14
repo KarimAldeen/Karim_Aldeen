@@ -9,25 +9,22 @@ const Sidebar = () => {
     <div className='Sidebar'>
          <div className='H_Left'>
             <ReactTooltip anchorId="Google" className="Google" />
-            <FaWhatsapp id='Google' data-tooltip-content="MhmadKarimAldeen@gmail.com"/> 
+            <FaGoogle id='Google' data-tooltip-content="MuhammedKarimAldeen@gmail.com"/> 
            <span>
            <ReactTooltip anchorId="Linkedin" className="Linkedin"/>
-               <FaLinkedin id='Linkedin' data-tooltip-content="MhmadKarimAldeen"/>
+               <FaLinkedin id='Linkedin' data-tooltip-content="MuhammedKarimAldeen"/>
             </span>
-            <ReactTooltip anchorId="Whatsapp" className="Whatsapp"/>
-               <FaGoogle id='Whatsapp' data-tooltip-content="0957551401"/>
-        
+           
             </div>
             <div className='H_Right'>
             <ReactTooltip anchorId="Mobile" className="Mobile" />
-            <FaMobileAlt id='Mobile' data-tooltip-content="MhmadKarimAldeen@gmail.com"/> 
+            <FaMobileAlt id='Mobile' data-tooltip-content="963957551401"/> 
            <span>
-           <ReactTooltip anchorId="Comment" className="Comment"/>
-               <FaCommentDots id='Comment' data-tooltip-content="MhmadKarimAldeen"/>
-            </span>
-            <ReactTooltip anchorId="Book" className="Book"/>
-               <FaBook id='Book' data-tooltip-content="0957551401"/>
+           <ReactTooltip anchorId="Whatsapp" className="Whatsapp"/>
+               <FaWhatsapp id='Whatsapp' data-tooltip-content="0951968995"/>
         
+            </span>
+           
             </div>
         
     </div>

@@ -9,11 +9,11 @@ const Navbar = () => {
           </a> 
         </div>
         <div className='Navbar_Mid'>
-        <a href='#HomePage'>Home</a>
+        <a href='#Home_Page'>Home</a>
 
-           <a href='#Services'>Services</a>
-            <a href='#Expertise'>Experience</a>
-            <a href='#Footer'>Contact</a>
+           <a href='#Best_Services'>Services</a>
+            <a href='#MY_SKIlls'>Skills</a>
+            <a href='#What_Im_Looking_For'>Looking For</a>
 
         </div>
         <div className='Navbar_Right'>

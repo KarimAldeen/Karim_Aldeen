@@ -215,7 +215,7 @@ const Home1_BG = () => {
         fill="#baff2e"
       />
     </g>
-    <g id="Home_Page-2" data-name="Home_Page" transform="translate(267 120)">
+    <g id="Home_Page-2 Home_Page"  data-name="Home_Page" transform="translate(267 120)">
       <g id="TEXT" transform="translate(-633 -152.33)">
         <text
           id="Karim_Aldeen"
@@ -235,7 +235,8 @@ const Home1_BG = () => {
           <tspan y={0}>m Aldeen</tspan>
         </text>
         <text
-          id="welcome_im"
+        
+          id="welcome_im HomePage"
           data-name="welcome im"
           transform="translate(633 208.33)"
           fill="#baff2e"
@@ -8296,7 +8297,8 @@ illustrator"
             </tspan>
           </text>
         </g>
-        <text
+      <g>
+      <text
           id="Best_Services"
           data-name="Best  Services"
           transform="translate(426 998)"
@@ -8310,6 +8312,7 @@ illustrator"
             Best Services
           </tspan>
         </text>
+      </g>
       </g>
     </g>
     <g
