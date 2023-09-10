@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className='Navbar'>
         <div className='Navbar_Left'>
-        <a href='../MYCV.png' download >
+        <a href='../Karim_CV.pdf' download >
           <button> Download CV</button>
           </a> 
         </div>
