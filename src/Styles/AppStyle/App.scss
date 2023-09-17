@@ -103,3 +103,8 @@ transform: translateX(-3vw);
     animation: fly 6s linear infinite both;
 
 }
+@media only screen and (max-width: 600px) {
+   .Navbar{
+    display: none;
+   }
+  }
