@@ -29,7 +29,7 @@ svg {
 }
 .Navbar{
     position: fixed;
-height: 5vw;
+height: 60px;
 width: 100vw;
 display: flex; justify-content: space-around; align-items: center;
 @include Shadow ;
@@ -40,12 +40,14 @@ background-color: transparent;
 .Navbar_Left{
 button{
     background: var(--primary);
-    padding: 5px 10px;
+    padding: .4vw .8vw;
     border: none;
     font-weight: 800;
     color: var(--text);
     border-radius: 4px;
     cursor: pointer;
+    font-size: 1.2vw;
+
 }
 }
 .Navbar_Mid{

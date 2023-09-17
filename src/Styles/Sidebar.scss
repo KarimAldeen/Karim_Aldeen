@@ -14,26 +14,26 @@
     gap: 10px;
     flex-direction: column;
     svg{
-        font-size: 18px;
+        font-size:1.5vw;
         fill: var(--text);
 
     }
 }
 span{
     background-color: var(--primary);
-    height: 30px;
-    width: 50px;
+    height: 2.5vw;
+    width: 4vw;
   
     @include Flex ;
     svg{
-        font-size: 18px;
+        font-size:1.5vw;
         fill: var(--text);
 
     }
 }
 
 .H_Right{
-   margin-right: 1vw;
+   margin-right: 10px;
     span{
          border-top-left-radius:10px !important;
     border-bottom-left-radius:10px !important;  

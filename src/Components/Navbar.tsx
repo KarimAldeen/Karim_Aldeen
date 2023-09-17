@@ -17,7 +17,7 @@ const Navbar = () => {
 
         </div>
         <div className='Navbar_Right'>
-        <img src="KarimLogo.svg" width="70px" height="70px"  />
+        <img src="KarimLogo.svg" width="40px" height="40px"  />
         <div  id='App'></div>
         </div>
 
