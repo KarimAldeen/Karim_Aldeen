@@ -2,17 +2,17 @@
 import React from 'react'
 import 'react-tooltip/dist/react-tooltip.css'
 import { Tooltip as ReactTooltip } from 'react-tooltip'
-import { FaMobileAlt,FaCommentDots ,FaBook,FaGoogle,FaLinkedin,FaWhatsapp} from "react-icons/fa";
+import { FaMobileAlt,FaGoogle,FaLinkedin,FaWhatsapp} from "react-icons/fa";
 
 const Sidebar = () => {
   return (
     <div className='Sidebar'>
          <div className='H_Left'>
             <ReactTooltip anchorId="Google" className="Google" />
-            <FaGoogle id='Google' data-tooltip-content="MuhammedKarimAldeen@gmail.com"/> 
+            <FaGoogle id='Google' data-tooltip-content="Mohammedkarimalden@gmail.com"/> 
            <span>
            <ReactTooltip anchorId="Linkedin" className="Linkedin"/>
-               <FaLinkedin id='Linkedin' data-tooltip-content="MuhammedKarimAldeen"/>
+               <FaLinkedin id='Linkedin' data-tooltip-content="Mohammedkarimalden"/>
             </span>
            
             </div>

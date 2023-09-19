@@ -8662,7 +8662,7 @@ about projects?"
           fontWeight={800}
         >
           <tspan x={0} y={0}>
-            3 Dashboards{" "}
+            5 - Dashboards{" "}
           </tspan>
         </text>
       </g>
@@ -8680,7 +8680,7 @@ about projects?"
           fontWeight={800}
         >
           <tspan x={0} y={0} xmlSpace="preserve">
-            1 Ecommerce
+            2 - Ecommerce
           </tspan>
         </text>
       </g>
@@ -8698,7 +8698,7 @@ about projects?"
           fontWeight={800}
         >
           <tspan x={0} y={0}>
-            10 Landing{" "}
+            8 - Landing{" "}
           </tspan>
         </text>
       </g>
@@ -8937,7 +8937,7 @@ about projects?"
           </tspan>
         </text>
         <text
-          id="MuhammedKrimAldeen_Gmail.com_"
+          id="MohammedKrimAlden_Gmail.com_"
           data-name="MuhammedKrimAldeen
 @Gmail.com
 "
@@ -8948,7 +8948,7 @@ about projects?"
           fontWeight={700}
         >
           <tspan x={0} y={22}>
-            MuhammedKrimAldeen
+            mohammedkrimalden
           </tspan>
           <tspan x={0} y={62}>
             @Gmail.com
